@@ -22,7 +22,6 @@ text = ['Hello Hilary. This is your reminder to drink water. Thank you.',
 		'Gimme a H. Gimme a 2. Gimme an O. What\'s that spell? Water!',
 		'Don\'t you love letting out a big \'Aaaahhh\' after a nice gulp of water?',
 		'Kick back, put your feet up, grab a drink of water and enjoy this https://www.youtube.com/watch?v=oHg5SJYRHA0',
-		'♪ Don\'t cha wish your water bottle was full like me? ♪',
 		'Waiter, what\'s the water de jour? It\'s the water of the day. Thank you, I\'ll have that.']
 
 
